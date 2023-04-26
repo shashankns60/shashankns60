@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashank Chaudhary</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img align="right" alt="coding" width="400px" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
+<img align="right" alt="coding" width="300px" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
 
 - 🌱 I’m currently learning **React Js**
 
