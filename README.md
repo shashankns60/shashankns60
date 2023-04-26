@@ -13,6 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Wondershare Recoverit Full Version 2023](https://www.kodexhub.com/post/wondershare-recoverit-full-version-2023)
+- [Internet Download Manager Preactivated](https://www.kodexhub.com/post/internet-download-manager-preactivated)
+- [Complete JavaScript Course 2023 - Udemy](https://www.kodexhub.com/post/complete-javascript-course-2023-udemy)
+- [Socinator Dominator Enterprise Full Version](https://www.kodexhub.com/post/socinator-dominator-enterprise-full-version)
+- [Plagiarism Checker X Preactivated](https://www.kodexhub.com/post/plagiarism-checker-x-preactivated)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
