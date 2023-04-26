@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shashank Chaudhary</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
+<img align="right" alt="coding" width="400px" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
+
 - 🌱 I’m currently learning **React Js**
 
 - 📝 I regularly write articles on [https://kodexhub.com](https://kodexhub.com)
