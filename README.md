@@ -1,3 +1,4 @@
+![logo](https://github.com/shashankns60/shashankns60/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Shashank Chaudhary</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
