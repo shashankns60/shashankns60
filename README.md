@@ -1,7 +1,7 @@
 ![logo](https://github.com/shashankns60/shashankns60/blob/main/White%20Yellow%20Clean%20Minimalist%20LinkedIn%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Shashank Chaudhary</h1>
-<h3 align="center">A passionate frontend developer</h3>
-
+<h4 align="center">Passionate frontend developer with one year of experience in HTML, CSS, Bootstrap, and React JS, and expertise in On-Page SEO, Canva design, and running Instagram ads. Dedicated, hardworking, and always eager to learn and grow.</h3>
+<hr>
 <img align="right" alt="coding" width="300px" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
 
 - 🌱 I’m currently learning **React Js**
