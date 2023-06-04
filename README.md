@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shashank.chaudhary3991@gmail.com**
 
-- 📄 Know about my experiences [https://shrinke.me/shashankCV](https://shrinke.me/shashankCV)
+- 📄 Know about my experiences [https://t.ly/shashank.chaudharyCV](https://t.ly/shashank.chaudharyCV)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
