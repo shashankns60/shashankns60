@@ -16,11 +16,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Keyword Researcher Pro](https://www.kodexhub.com/post/keyword-researcher-pro)
 - [Neverinstall personal cloud computing platform](https://www.kodexhub.com/post/neverinstall-personal-cloud-computing-platform)
 - [Get 4000 GB Storage Free](https://www.kodexhub.com/post/get-4000-gb-storage-free)
 - [Wondershare Recoverit Full Version 2023](https://www.kodexhub.com/post/wondershare-recoverit-full-version-2023)
 - [Internet Download Manager Preactivated](https://www.kodexhub.com/post/internet-download-manager-preactivated)
-- [Complete JavaScript Course 2023 - Udemy](https://www.kodexhub.com/post/complete-javascript-course-2023-udemy)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
