@@ -16,11 +16,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Canva Pro Subscription lifetime](https://www.kodexhub.com/post/canva-pro-subscription-lifetime)
 - [Adobe Photoshop CC 2024 For MacOS](https://www.kodexhub.com/post/adobe-photoshop-cc-2024-for-macos)
 - [PremiumAV Antivirus For PC Free](https://www.kodexhub.com/post/premiumav-antivirus-for-pc-free)
 - [Keyword Researcher Pro](https://www.kodexhub.com/post/keyword-researcher-pro)
 - [Neverinstall personal cloud computing platform](https://www.kodexhub.com/post/neverinstall-personal-cloud-computing-platform)
+- [Get 4000 GB Storage Free](https://www.kodexhub.com/post/get-4000-gb-storage-free)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
