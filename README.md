@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shashank.chaudhary3991@gmail.com**
 
-- 📄 Know about my experiences [https://t.ly/ITNpk](https://t.ly/ITNpk)
+- 📄 Know about my experiences [Download](https://rb.gy/dxz8au)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
