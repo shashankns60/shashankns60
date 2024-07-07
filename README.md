@@ -16,11 +16,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Free ChatGPT Prompt Categories](https://www.kodexhub.com/post/free-chatgpt-prompt-categories)
 - [Adobe Photoshop 2024 For Windows](https://www.kodexhub.com/post/adobe-photoshop-2024-for-windows)
 - [Adobe Photoshop CC 2024 For MacOS](https://www.kodexhub.com/post/adobe-photoshop-cc-2024-for-macos)
 - [PremiumAV Antivirus For PC Free](https://www.kodexhub.com/post/premiumav-antivirus-for-pc-free)
 - [Keyword Researcher Pro](https://www.kodexhub.com/post/keyword-researcher-pro)
-- [Neverinstall personal cloud computing platform](https://www.kodexhub.com/post/neverinstall-personal-cloud-computing-platform)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
