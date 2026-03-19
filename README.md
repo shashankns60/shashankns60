@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 📝 I regularly write articles on [https://kodexhub.com](https://kodexhub.com)
+- 📝 I regularly write articles on [https://webleex.com](https://webleex.com)
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, Canva, Wix, React JS, On-Page SEO, Tailwind**
 
