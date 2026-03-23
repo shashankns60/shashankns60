@@ -1,8 +1,8 @@
-name: Latest blog post workflow
+name: Latest blog posts
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 0 * * *"   # daily at 00:00 UTC
   workflow_dispatch:
 
 permissions:
@@ -10,16 +10,19 @@ permissions:
 
 jobs:
   update-readme-with-blog:
+    name: Update README with latest Webleex posts
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update README with blog posts
-        uses: gautamkrishnar/blog-post-workflow@v1.9.4
+      - name: Pull latest posts from Webleex feed
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://webleex.com/feed/"
           max_post_count: 5
-          readme_path: "README.md"
+          readme_path: "./README.md"
           comment_tag_name: "BLOG-POST-LIST"
+          disable_sort: "false"
+          commit_message: "Updated README with latest blog posts"
