@@ -11,6 +11,7 @@ Passionate frontend developer with 2+ years of experience in HTML, CSS, Bootstra
 
 - 🌱 I’m currently learning **React JS**
 - 📝 I regularly write articles on [Webleex](https://webleex.com)
+- 🛍️ I also sell **website templates, PDFs, and eBooks** on [Webleex Shop](https://webleex.com)
 - 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, React JS, Canva, Wix, and On-Page SEO**
 - 📫 How to reach me **shashank.chaudhary3991@gmail.com**
 - 📄 Know about my experiences [View Resume](https://rb.gy/dxz8au)
@@ -23,6 +24,11 @@ Passionate frontend developer with 2+ years of experience in HTML, CSS, Bootstra
 - [What Is Artificial Intelligence &amp; Automation?](https://webleex.com/blog/what-is-artificial-intelligence-automation/)
 - [Microsoft Office 2024 Professional Plus](https://webleex.com/windows/microsoft-office-2024-professional-plus/)
 <!-- BLOG-POST-LIST:END -->
+
+## 🛍️ Latest Shop Items
+<!-- SHOP-ITEM-LIST:START -->
+- Coming soon...
+<!-- SHOP-ITEM-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
