@@ -18,7 +18,7 @@ Passionate frontend developer with 2+ years of experience in HTML, CSS, Bootstra
 
 ## 🔥 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [https://edumanage-school-student-management.netlify.app/](https://edumanage-school-student-management.netlify.app/)
+- [School Management System](https://edumanage-school-student-management.netlify.app/)
 - [Complete Guide to Hydra Password Cracking Tool](https://webleex.com/blog/complete-guide-hydra-password-cracking/)
 - [AB Download Manager 2026](https://webleex.com/windows/ab-download-manager/)
 - [AI vs Automation Key Differences, you should know 2026](https://webleex.com/blog/ai-vs-automation-key-differences/)
