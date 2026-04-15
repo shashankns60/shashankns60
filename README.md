@@ -18,11 +18,11 @@ Passionate frontend developer with 2+ years of experience in HTML, CSS, Bootstra
 
 ## 🔥 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hashcat GPU-Based Password Recovery Tool](https://webleex.com/blog/hashcat-gpu-based-password-recovery-tool/)
+- [John the Ripper v1.9.0 Offline Password Cracking](https://webleex.com/blog/john-the-ripper-password-cracking-tool/)
 - [Complete Guide to Hydra Password Cracking Tool](https://webleex.com/blog/complete-guide-hydra-password-cracking/)
 - [AB Download Manager 2026](https://webleex.com/windows/ab-download-manager/)
 - [AI vs Automation Key Differences, you should know 2026](https://webleex.com/blog/ai-vs-automation-key-differences/)
-- [What Is Artificial Intelligence &amp; Automation?](https://webleex.com/blog/what-is-artificial-intelligence-automation/)
-- [Microsoft Office 2024 Professional Plus](https://webleex.com/windows/microsoft-office-2024-professional-plus/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛍️ Latest Shop Items
